@@ -1,3 +1,4 @@
+<!-- Copyright © 2026 SurgeXi Business Intelligence, a Teamsmith Enterprises LLC company. All Rights Reserved. -->
 <!--
   Profile README for the GitHub user "tsmith-surgexi".
   Lives in a repo named exactly "tsmith-surgexi" so GitHub pins it to the
@@ -75,3 +76,7 @@ Each repo is a **case study** — architecture diagrams, design-decision records
   repo activity in the totals (without revealing repo names), once you've
   enabled "Include private contributions on my profile" in Settings → Profile.
 -->
+
+## License
+© 2026 SurgeXi Business Intelligence, a Teamsmith Enterprises LLC company. All Rights Reserved.
+Source-available for evaluation only — see LICENSE.
