@@ -39,7 +39,7 @@ Each repo is a **case study** — architecture diagrams, design-decision records
 |------|---------------|
 | 🔎 **[verified-rag](https://github.com/tsmith-surgexi/verified-rag)** | RAG that *structurally cannot fabricate a citation* — every quote is verbatim-verified against source or the engine abstains — [architecture & case study](https://github.com/tsmith-surgexi/verified-rag/blob/main/ARCHITECTURE.md) |
 | 🧭 **[llm-inference-router](https://github.com/tsmith-surgexi/llm-inference-router)** | Health-aware, cost-optimized tiered LLM routing — [architecture & case study](https://github.com/tsmith-surgexi/llm-inference-router/blob/main/ARCHITECTURE.md) |
-| 🖥️ **[homelab-ai-infra](https://github.com/tsmith-surgexi/homelab-ai-infra)** | On-prem dual-GPU inference rig, infra-as-code — [architecture & case study](https://github.com/tsmith-surgexi/homelab-ai-infra/blob/main/ARCHITECTURE.md) |
+| 🖥️ **[onprem-ai-infra](https://github.com/tsmith-surgexi/onprem-ai-infra)** | Private on-prem dual-GPU inference platform, infra-as-code — [architecture & case study](https://github.com/tsmith-surgexi/onprem-ai-infra/blob/main/ARCHITECTURE.md) |
 | 🛡️ **[secure-agent-patterns](https://github.com/tsmith-surgexi/secure-agent-patterns)** | Defensive patterns for hardening agentic AI — [architecture & case study](https://github.com/tsmith-surgexi/secure-agent-patterns/blob/main/ARCHITECTURE.md) |
 
 ### 🛠️ Tech I work in
