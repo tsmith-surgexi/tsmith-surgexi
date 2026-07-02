@@ -37,6 +37,7 @@ Each repo is a **case study** — architecture diagrams, design-decision records
 
 | Repo | What it shows |
 |------|---------------|
+| 🔎 **[verified-rag](https://github.com/tsmith-surgexi/verified-rag)** | RAG that *structurally cannot fabricate a citation* — every quote is verbatim-verified against source or the engine abstains — [architecture & case study](https://github.com/tsmith-surgexi/verified-rag/blob/main/ARCHITECTURE.md) |
 | 🧭 **[llm-inference-router](https://github.com/tsmith-surgexi/llm-inference-router)** | Health-aware, cost-optimized tiered LLM routing — [architecture & case study](https://github.com/tsmith-surgexi/llm-inference-router/blob/main/ARCHITECTURE.md) |
 | 📚 **[rag-reference-pipeline](https://github.com/tsmith-surgexi/rag-reference-pipeline)** | Production-minded retrieval-augmented generation — [architecture & case study](https://github.com/tsmith-surgexi/rag-reference-pipeline/blob/main/ARCHITECTURE.md) |
 | 🖥️ **[homelab-ai-infra](https://github.com/tsmith-surgexi/homelab-ai-infra)** | On-prem dual-GPU inference rig, infra-as-code — [architecture & case study](https://github.com/tsmith-surgexi/homelab-ai-infra/blob/main/ARCHITECTURE.md) |
