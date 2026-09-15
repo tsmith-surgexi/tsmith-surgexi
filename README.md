@@ -22,7 +22,7 @@
 
 ### 🚀 What I'm building
 
-**[SurgeXi Business Intelligence](https://surgexi.com)** — an AI services platform that brings **agentic, multi-tier LLM systems** to residential and SMB clients. The platform pairs on-prem GPU inference with a security-first architecture: prompt-injection hardening, agent isolation, and end-to-end CI/CD security review.
+**[SurgeXi Business Intelligence](https://github.com/SurgeXi)** ([surgexi.com](https://surgexi.com)) — secure, human-in-the-loop AI operations software. Our lead product, **[Vertirite](https://vertirite.com)**, is a vendor-neutral AI-governance control plane: it discovers every AI and automation already touching your systems and puts a human approval gate — plus egress, credential, and irreversible-action chokepoints — in front of the actions that can hurt you. Everything is built on a security-first, on-prem foundation: prompt-injection hardening, agent isolation, private GPU inference, and end-to-end CI/CD security review.
 
 ### 🧠 What I focus on
 
@@ -68,6 +68,7 @@ Each repo is a **case study** — architecture diagrams, design-decision records
 ### 📫 Connect
 
 - 🌐 **[surgexi.com](https://surgexi.com)**
+- 🏢 **[SurgeXi on GitHub](https://github.com/SurgeXi)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/todd-smith-2b18b12b0/)**
 - 📧 **todd.smith@teamsmith.live**
 
